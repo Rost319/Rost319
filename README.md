@@ -35,7 +35,7 @@ title="git" width="40" height="40"/>&nbsp;
 - 🔭 I’m currently working as a java developer at MNU
 - 🌱 I am currently learning java and related frameworks, javascript
 - 🤑 Like the theme of investment
-- 💪 I go to the gym regularly
+- 💪 I try to improve myself physically and mentally
 
 
 ### Professional skills
