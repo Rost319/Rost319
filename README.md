@@ -3,7 +3,7 @@
     <h3>Java Developer from Russian<h3>
 </div>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://github.com/Rost319/Rost319/blob/master/generated/languages.svg)
 
 ### About me
 
