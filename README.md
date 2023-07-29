@@ -34,12 +34,16 @@ title="git" width="40" height="40"/>&nbsp;
 
 - 🔭 I’m currently working as a java developer at MNU
 - 🌱 I am currently learning java and related frameworks, javascript
-- 👯 
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤑 Like the theme of investment
+- 💪 I go to the gym regularly
+
+
+### Professional skills
+- Analytical mind
+- Critical thinking
+- Stress resistance
+- Ability to organize teamwork
+- Public speaking skill
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rost319&theme=default)
